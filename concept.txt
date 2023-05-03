@@ -1,0 +1,12 @@
+OpenZepplin :Library for secure smart contracts development
+ERC20 Token:-each token are the same..... Keeps track of fungible tokens:e.g exchange of currency, voting right and staking.
+ERC721: Tokens are different e.g real estate, voting right, collectibles
+Appraiser: Checks quality of items/NFTS
+NFT Lender : Monitized NFTS Without selling NFT Loan 
+Inspector:Allows creators and collectors to access real time data
+IPFS(InterPlanetary File System Storage)- peer to peer file sharing system in a decentralized manner.
+Mint - What does mint mean in Ethereum?
+Minting crypto is the process of generating 
+new coins by authenticating 
+data, creating new blocks, and recording 
+the information onto the blockchain through a “proof of stake” protocol
